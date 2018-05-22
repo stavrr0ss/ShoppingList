@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ShoppingList</string>
+    <string name="new_list_button">New List</string>
+    <string name="my_lists_button">My Lists</string>
+    <string name="products_button_text">Products</string>
+    <string name="editor_delete_product_failed">Failed to delete product !</string>
+    <string name="editor_delete_product_successful">Product deleted !</string>
+    <string name="editor_insert_productt_failed">Failed to insert product</string>
+    <string name="editor_insert_product_successful">Product inserted succesfull</string>
+</resources>
